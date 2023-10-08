@@ -5,3 +5,5 @@ a + b = (a | b) + (a & b)
 
 the number of bits in a and b is equal to the numbers obtained on performing "OR" and "AND" operations on them 
 but one number becomes big and another one becomes smaller (rearrangement of bits) 
+
+// PROBLEM LINK --- https://leetcode.com/contest/weekly-contest-366/problems/apply-operations-on-array-to-maximize-sum-of-squares/
