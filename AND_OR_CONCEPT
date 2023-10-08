@@ -1,0 +1,7 @@
+Given two numbers a and b 
+if you perform "OR" and "AND" operations on them 
+
+a + b = (a | b) + (a & b) 
+
+the number of bits in a and b is equal to the numbers obtained on performing "OR" and "AND" operations on them 
+but one number becomes big and another one becomes smaller (rearrangement of bits) 
